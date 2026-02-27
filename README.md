@@ -8,7 +8,7 @@ Run the setup script (automatic installation):
 wget https://raw.githubusercontent.com/therobocademy/ros2_nvidia_isaac_bootcamp/refs/heads/main/setup_docker_ubuntu.sh && chmod +x setup_docker_ubuntu.sh && sudo ./setup_docker_ubuntu.sh
 
 Manual installation video link for Ubuntu 24.04:
-youtube.com/watch?v=FWWq83IGUgw&feature=youtu.be
+https://www.youtube.com/watch?v=FWWq83IGUgw
 
 Manual installation video link for Ubuntu 22.04:
 https://www.youtube.com/watch?v=EuSVD7kVCUY
