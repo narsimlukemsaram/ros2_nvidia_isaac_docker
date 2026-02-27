@@ -13,3 +13,5 @@ youtube.com/watch?v=FWWq83IGUgw&feature=youtu.be
 Manual installation video link for Ubuntu 22.04:
 https://www.youtube.com/watch?v=EuSVD7kVCUY
 
+**Verify:**
+docker --version
